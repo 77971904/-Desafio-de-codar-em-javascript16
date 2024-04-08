@@ -1,4 +1,8 @@
 ## Décimo sexto projeto do desafio em codar em js.
+Este código JavaScript implementa um jogo de Snake simples
+* Seleção de Elementos: Seleciona elementos HTML importantes da página.
+* Inicialização de Variáveis: Define variáveis para controlar o estado do jogo.
+
 
 
  ## Captura da tela
