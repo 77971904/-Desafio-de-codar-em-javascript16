@@ -8,12 +8,6 @@ Este código JavaScript implementa um jogo de Snake simples
 * Inicialização do Jogo: Inicializa o estado do jogo e controla a lógica do jogo, como movimento da cobra, colisões e pontuação.
 *  Loop do Jogo: Atualiza o jogo em intervalos regulares, chamando a função de inicialização do jogo.
 
- Event Listeners: Adiciona event listeners para os controles do jogo e para as teclas de direção no teclado.
-* Inicialização do Jogo: Inicializa o estado do jogo e controla a lógica do jogo, como movimento da cobra, colisões e pontuação.
-*  Loop do Jogo: Atualiza o jogo em intervalos regulares, chamando a função de inicialização do jogo.
-
- 
- 
  ## Captura da tela
 Aqui a captura da tela com o projeto :
 (O intuito desse projeto é apenas praticar os conhecimentos em javascript.)
